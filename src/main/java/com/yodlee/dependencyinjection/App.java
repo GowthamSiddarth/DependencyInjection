@@ -1,7 +1,6 @@
 package com.yodlee.dependencyinjection;
 
 import com.yodlee.dependencyinjection.consumer.Consumer;
-import com.yodlee.dependencyinjection.consumer.ConsumerApplication;
 import com.yodlee.dependencyinjection.serviceinjector.EmailServiceInjector;
 import com.yodlee.dependencyinjection.serviceinjector.MessageServiceInjector;
 import com.yodlee.dependencyinjection.serviceinjector.SMSServiceInjector;
